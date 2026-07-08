@@ -197,6 +197,7 @@ const translations = {
     "Technician maintaining solar equipment": "સોલાર સાધનોનું મેન્ટેનન્સ કરતો ટેક્નિશિયન",
     "Large rooftop solar installation": "મોટું રૂફટોપ સોલાર ઇન્સ્ટોલેશન",
     "Patidar Enterprise home": "પાટીદાર એન્ટરપ્રાઇઝ હોમ",
+    "Patidar Enterprise logo": "પાટીદાર એન્ટરપ્રાઇઝ લોગો",
     "Primary navigation": "મુખ્ય નેવિગેશન",
     "Company highlights": "કંપની હાઇલાઇટ્સ",
     "Business stats": "વ્યવસાય આંકડા",
