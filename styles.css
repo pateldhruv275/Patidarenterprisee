@@ -99,6 +99,21 @@ textarea {
   letter-spacing: 0;
 }
 
+.brand-logo-img {
+  width: 58px;
+  height: 48px;
+  flex: 0 0 auto;
+  border-radius: var(--radius);
+  object-fit: contain;
+  background: var(--white);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.1);
+}
+
+.footer .brand-logo-img {
+  width: 64px;
+  height: 54px;
+}
+
 .brand strong,
 .brand small {
   display: block;
@@ -1066,6 +1081,11 @@ textarea:focus {
     width: 36px;
     height: 36px;
     font-size: 0.86rem;
+  }
+
+  .brand-logo-img {
+    width: 44px;
+    height: 38px;
   }
 
   .language-switcher {
